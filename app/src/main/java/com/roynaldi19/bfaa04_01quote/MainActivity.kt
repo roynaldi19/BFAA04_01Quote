@@ -13,7 +13,6 @@ import cz.msebera.android.httpclient.Header
 import org.json.JSONObject
 
 class MainActivity : AppCompatActivity() {
-
     companion object {
         private val TAG = MainActivity::class.java.simpleName
     }
@@ -79,6 +78,4 @@ class MainActivity : AppCompatActivity() {
             }
         })
     }
-
-
 }

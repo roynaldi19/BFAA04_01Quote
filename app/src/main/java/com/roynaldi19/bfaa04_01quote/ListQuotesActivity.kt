@@ -15,7 +15,6 @@ import org.json.JSONArray
 import java.lang.Exception
 
 class ListQuotesActivity : AppCompatActivity() {
-
     companion object {
         private val TAG = ListQuotesActivity::class.java.simpleName
     }

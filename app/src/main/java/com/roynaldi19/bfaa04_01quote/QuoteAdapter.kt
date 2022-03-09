@@ -10,7 +10,6 @@ class QuoteAdapter(private val listReview: ArrayList<String>) :
     RecyclerView.Adapter<QuoteAdapter.ViewHolder>() {
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val tvItem: TextView = view.findViewById(R.id.tvItem)
-
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
