@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa04_01quote
+package com.roynaldi19.dc3_04quote
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,7 +8,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.loopj.android.http.AsyncHttpClient
 import com.loopj.android.http.AsyncHttpResponseHandler
-import com.roynaldi19.bfaa04_01quote.databinding.ActivityMainBinding
+import com.roynaldi19.dc3_04quote.databinding.ActivityMainBinding
 import cz.msebera.android.httpclient.Header
 import org.json.JSONObject
 

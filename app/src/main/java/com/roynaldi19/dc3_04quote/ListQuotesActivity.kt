@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa04_01quote
+package com.roynaldi19.dc3_04quote
 
 import android.os.Bundle
 import android.util.Log
@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.loopj.android.http.AsyncHttpClient
 import com.loopj.android.http.AsyncHttpResponseHandler
-import com.roynaldi19.bfaa04_01quote.databinding.ActivityListQuotesBinding
+import com.roynaldi19.dc3_04quote.databinding.ActivityListQuotesBinding
 import cz.msebera.android.httpclient.Header
 import org.json.JSONArray
 import java.lang.Exception
